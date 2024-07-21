@@ -65,8 +65,7 @@
     </style>
 </head>
 <body>
-    <img src="![Screenshot_20240722-000139](https://github.com/user-attachments/assets/d55abf6e-24c8-46a1-a28f-1faedaa76e0f)
-" alt="Passport Photo" class="passport-photo">
+    <img src="![Myself](https://github.com/user-attachments/assets/d55abf6e-24c8-46a1-a28f-1faedaa76e0f)" alt="Passport Photo" class="passport-photo">
     
     <div class="footer">THE WEBSITE IS CURRENTLY BEING UPDATED</div>
     
