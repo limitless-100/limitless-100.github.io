@@ -56,7 +56,7 @@
             position: absolute;
             top: 20px;
             right: 20px;
-            width: 120px; /* Adjust size as needed */
+            width: 360px; /* Adjust size as needed */
             height: auto;
             border-radius: 50%;
             border: 2px solid #ddd;
