@@ -10,6 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f9f9f9;
+            position: relative;
         }
         .header {
             color: blue;
@@ -33,6 +34,7 @@
             padding: 20px;
             max-width: 800px;
             margin: auto;
+            position: relative;
         }
         h2 {
             color: blue;
@@ -50,10 +52,22 @@
         a:hover {
             text-decoration: underline;
         }
+        .passport-photo {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 120px; /* Adjust size as needed */
+            height: auto;
+            border-radius: 50%;
+            border: 2px solid #ddd;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
     </style>
 </head>
 <body>
-    <div class="footer">The website is currently being updated</div>
+    <img src="C:\Users\SER\Downloads\Screenshot_20240722-000139.jpg" alt="Passport Photo" class="passport-photo">
+    
+    <div class="footer">THE WEBSITE IS CURRENTLY BEING UPDATED</div>
     
     <div class="content">
         <h1 class="header">HOME</h1>
