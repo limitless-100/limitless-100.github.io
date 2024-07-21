@@ -65,14 +65,14 @@
     </style>
 </head>
 <body>
-    <img src="C:\Users\SER\Downloads\Screenshot_20240722-000139.jpg" alt="Passport Photo" class="passport-photo">
+    <img src="Screenshot_20240722-000139.jpg" alt="Passport Photo" class="passport-photo">
     
     <div class="footer">THE WEBSITE IS CURRENTLY BEING UPDATED</div>
     
     <div class="content">
         <h1 class="header">HOME</h1>
         <p>I am currently an undergraduate student of Obafemi Awolowo University, studying BSc. in Computer Science with Mathematics. I will be starting my third-year studies in the next few months.</p>
-        <p>I am a proud autodidact and always ready to pursue knowledge that is far beyond my age group. Additionally, I am enrolled in the MITx MicroMasters Program in Statistics and Data Science. Here is my <a href="#">CV</a> and <a href="mailto:your-email@example.com">email address</a>.</p>
+        <p>I am a proud autodidact and always ready to pursue knowledge that is far beyond my age group. Additionally, I am enrolled in the MITx MicroMasters Program in Statistics and Data Science. Here is my <a href="https://docs.google.com/document/d/1MFwiyjeyFqA8Zl-mDzKhmqMWvT8-tpJv8Xi3p35KOTg/edit?usp=sharing">CV</a> and <a href="adesinalekan9@gmail.com">email address</a>.</p>
         <p>I am actively looking for a research internship!</p>
         <p>My extracurricular activities are quantum computing, theoretical machine learning, competitive programming, quantitative finance, creative writing, and chess.</p>
 
@@ -93,11 +93,11 @@
 
         <h2>BLOG</h2>
         <p>I will be publishing two articles before August 31, 2024, on the foundations of Black-Scholes Models and Stochastic Partial Differential Equations. The current delay lies in updating my website fully with HTML/CSS/JavaScript.</p>
-        <p>Meanwhile, feel free to check out my experience with the 2024 Alibaba Mathematics Competition and other interesting articles on my LinkedIn!</p>
+        <p>Meanwhile, feel free to check out my experience with the 2024 Alibaba Mathematics Competition and other interesting articles on <a href="https://www.linkedin.com/in/lekan-adesina-0845a3221">my LinkedIn!</a>.</p>
 
         <h2>MISCELLANEOUS</h2>
         <p>I am a huge fan of STEM competitions and am actively preparing for these major competitions in 2024-25: Alibaba Global Mathematics Competition, Microsoft Imagine Cup, Meta Hacker Cup, IEEE Xtreme Programming Competition, Contemporary Undergraduate Mathematical Contest in Modeling, and MIT Informatics Tournament.</p>
-        <p>Furthermore, in September 2022, I founded a Data Science/ML community with 849 members from 9+ countries as of now.</p>
+        <p>Furthermore, in September 2022, I founded a <a href="https://chat.whatsapp.com/IiRsaVyb4zoHSSMWr2BziG">Data Science/ML community</a> with 849 members from 9+ countries as of now.</p>
     </div>
 </body>
 </html>
