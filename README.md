@@ -72,7 +72,7 @@
     <div class="content">
         <h1 class="header">HOME</h1>
         <p>I am currently an undergraduate student of Obafemi Awolowo University, studying BSc. in Computer Science with Mathematics. I will be starting my third-year studies in the next few months.</p>
-        <p>I am a proud autodidact and always ready to pursue knowledge that is far beyond my age group. Additionally, I am enrolled in the MITx MicroMasters Program in Statistics and Data Science. Here is my <a href="https://docs.google.com/document/d/1MFwiyjeyFqA8Zl-mDzKhmqMWvT8-tpJv8Xi3p35KOTg/edit?usp=sharing.pdf" download="Adesina Lekan CV/Resume.pdf">CV</a> and <a href="adesinalekan9@gmail.com">email address</a>.</p>
+        <p>I am a proud autodidact and always ready to pursue knowledge that is far beyond my age group. Additionally, I am enrolled in the MITx MicroMasters Program in Statistics and Data Science. Here is my <a href="https://docs.google.com/document/d/1MFwiyjeyFqA8Zl-mDzKhmqMWvT8-tpJv8Xi3p35KOTg/edit?usp=sharing.pdf" class="highlight">CV</a> and <a href="adesinalekan9@gmail.com">email address</a>.</p>
         <p>I am actively looking for a research internship!</p>
         <p>My extracurricular activities are quantum computing, theoretical machine learning, competitive programming, quantitative finance, creative writing, and chess.</p>
 
